@@ -6,7 +6,6 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 import './App.css';
 
 function App() {
-
   const [data, setData] = useState([])
   const [inputText, setInputText] = useState("");
 
